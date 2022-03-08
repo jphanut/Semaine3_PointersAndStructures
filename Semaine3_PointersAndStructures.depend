@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645123305 source:/home/margauxhanut/ProjectC/Semaine3_PointersAndStructures/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
